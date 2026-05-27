@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productvalculate",
+        "uuid": 9535239,
+        "checksum": "kv3xg"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
